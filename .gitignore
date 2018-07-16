@@ -33,7 +33,7 @@ coverage.xml
 
 /venv
 passwords.txt
-database/sentiment_model/
+database/sentiment_model/filmreviews.xlsx
 database/sentiment_model/model.pickle
 database/sentiment_model/vectorizer.pickle
 database/sentiment_model/web_scraping.py
